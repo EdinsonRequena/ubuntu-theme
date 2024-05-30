@@ -1,31 +1,31 @@
 {
-    "name": "linux-ubuntu-theme",
-    "displayName": "Linux Ubuntu Theme",
-    "description": "this is an unofficial ubuntu theme. Created by edinsonrequena",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "linux ubuntu theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/linux ubuntu theme-color-theme.json"
-            }
-        ]
-    },
-    "author": {
-        "name": "Edinson Requena",
-        "url": "https://www.linkedin.com/in/edinson-requena-9496a2178/"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/EdinsonRequena/ubuntu-theme.git"
-    },
-    "publisher": "edinsonrequena",
-    "icon": "icons/ubuntu.png"
+  "name": "linux-ubuntu-theme",
+  "displayName": "Linux Ubuntu Theme",
+  "description": "this is an unofficial ubuntu theme. Created by edinsonrequena",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "linux ubuntu theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/linux ubuntu theme-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "name": "Edinson Requena",
+    "url": "https://www.linkedin.com/in/edinson-requena-9496a2178/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdinsonRequena/ubuntu-theme.git"
+  },
+  "publisher": "edinsonrequena",
+  "icon": "icons/ubuntu.png"
 }
