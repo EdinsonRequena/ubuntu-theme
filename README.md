@@ -1,6 +1,8 @@
 # Ubuntu Linux Theme  🚀
 
-![Screenshot 2024-05-30 at 3 14 36 AM](https://github.com/EdinsonRequena/ubuntu-theme/assets/42161800/caa74cdb-c6e7-419e-80d2-e2c0acbd58c8)
+
+![Screenshot 2024-05-30 at 2 36 03 PM](https://github.com/EdinsonRequena/ubuntu-theme/assets/42161800/c8d620e5-1a5e-4d75-b67f-47320441734d)
+
 
 
  Here are some useful editor keyboard shortcuts:
