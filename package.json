@@ -2,7 +2,7 @@
   "name": "linux-ubuntu-theme",
   "displayName": "Linux Ubuntu Theme",
   "description": "this is an unofficial ubuntu theme. Created by edinsonrequena",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.62.0"
   },
